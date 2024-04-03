@@ -18,7 +18,7 @@ Hi There! 👋 I'm Akshat Singh!<br>A passionate full stack developer from India
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=akshat2912003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
